@@ -14,6 +14,12 @@ export default [
           'https://i.ibb.co/hXTqFKh/babu.jpg',
         scl: 'VT'
       },
+      {
+        id:2,
+        name: 'Arafat Fahim',
+        img: 'https://i.ibb.co/tLj19qQ/arafat-fahim.png',
+        scl: 'RABN'
+      },
     {
         id: 3,
         name: 'Rakibul Isalm Rakib',
